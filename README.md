@@ -13,6 +13,3 @@ Projekt slouží ke studijním a prezentačním účelům.
 - `/prompts` – systémové prompty jednotlivých agentů
 - `/data` – ukázková výzva a nabídky dodavatelů
 - `/api` – jednoduché (fake) API simulující komunikaci s LLM
-
-⚠️ Poznámka:  
-Projekt je **funkční pouze demonstračně**, nejedná se o produkční řešení.
