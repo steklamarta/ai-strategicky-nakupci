@@ -1,0 +1,3 @@
+Výzva: Aplikační podpora systému SAP HR
+Doba plnění: 24 měsíců
+Hodnocení: cena (50 %), kvalita týmu (30 %), SLA (20 %)
