@@ -12,4 +12,4 @@ Projekt slouží ke studijním a prezentačním účelům.
 ## Obsah repozitáře
 - `/prompts` – systémové prompty jednotlivých agentů
 - `/data` – ukázková výzva a nabídky dodavatelů
-- `/api` – jednoduché (fake) API simulující komunikaci s LLM
+- `/api` – jednoduché API simulující komunikaci s LLM
